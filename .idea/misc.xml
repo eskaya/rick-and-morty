@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.13874873864783047" />
+        <entry key="app/src/main/res/drawable/character_card.xml" value="0.218" />
+        <entry key="app/src/main/res/drawable/custom_apply_button.xml" value="0.2595" />
+        <entry key="app/src/main/res/drawable/custom_edit_text.xml" value="0.2" />
+        <entry key="app/src/main/res/font/font.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/activity_character.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/activity_character_detail.xml" value="0.4197313430313638" />
+        <entry key="app/src/main/res/layout/activity_character_group_detay.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_group_detail.xml" value="0.264026402640264" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.20109405517578127" />
+        <entry key="app/src/main/res/layout/adapter_card_character_circle_image.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/adapter_character_card.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/adapter_character_group_card.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/adapter_select_character_for_dialog.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/card_character_circle_image.xml" value="0.40260416666666665" />
+        <entry key="app/src/main/res/layout/character_card.xml" value="0.23208191126279865" />
+        <entry key="app/src/main/res/layout/character_group_card.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/layout/custom_add_group_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_filter_dialog.xml" value="0.33611111111111114" />
+        <entry key="app/src/main/res/layout/dialog_custom_add_group_dialog.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/dialog_custom_filter_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_character_group.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_character_list.xml" value="0.33611111111111114" />
+        <entry key="app/src/main/res/layout/fragment_favorite_character_list.xml" value="0.33611111111111114" />
+        <entry key="app/src/main/res/layout/plan.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/select_character_for_dialog.xml" value="0.40260416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

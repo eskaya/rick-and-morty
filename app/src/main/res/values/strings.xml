@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RickAndMorty</string>
+    <string name="status">Status</string>
+    <string name="hyphen">-</string>
+    <string name="last_know_location">Last know location:</string>
+    <string name="first_seen_in">First seen in</string>
+    <string name="error_message" tools:ignore="ExtraTranslation">Request Failed</string>
+    <string name="alive">Alive</string>
+    <string name="dead">Dead</string>
+    <string name="unknown">Unknown</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="genderless">Genderless</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apply">Apply</string>
+    <string name="clear_all">Clear All</string>
+    <string name="favorite_groups_not_created">Favorite groups not created :(</string>
+    <string name="create_group">Create Group</string>
+    <string name="custom_group_dialog_description">Please select the group name, maximum number of participants and group members to be created.</string>
+    <string name="group_name">Group Name</string>
+    <string name="number_of_characters">Number of characters</string>
+    <string name="create">Create</string>
+    <string name="check_out_your_favorite_group">Check out your favorite group :)</string>
+    <string name="description">Description</string>
+    <string name="up_to_5_characters_can_be_selected">Up to 5 characters can be selected</string>
+    <string name="unknown_error_faded">Unknown error faded :/</string>
+    <string name="characters">Characters</string>
+    <string name="all">All</string>
+    <string name="favorite">Favorite</string>
+    <string name="group">Group</string>
+    <string name="request_failed">Request failed :(</string>
+    <string name="check_to_log">The request failed. Check the logs.</string>
+    <string name="add_new_group">Add new group</string>
+    <string name="make_sure_to_fill_in_all_fields">Please make sure to fill in all fields.</string>
+</resources>
