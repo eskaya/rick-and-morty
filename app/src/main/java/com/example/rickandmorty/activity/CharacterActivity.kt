@@ -41,17 +41,6 @@ class CharacterActivity : AppCompatActivity() {
         binding = ActivityCharacterBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-
-        /*db = Room.databaseBuilder(
-            applicationContext,
-            AppRoomDatabase::class.java,
-            "app_room_database"
-        )
-            .allowMainThreadQueries()
-            .build()
-        characterDao = db.roomCharacterDao()
-
-         */
         db = DatabaseBuilder.getInstance(this)
         createFragmentPagerAdapter()
         listeners()
