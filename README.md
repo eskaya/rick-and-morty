@@ -1,25 +1,24 @@
 # rick-and-morty
 
-rick-and-morty bir mobil uygulamasıdır. Kotlin ile geliştirilmektedir. https://rickandmortyapi.com/ apisi kullanılmıştır.
+rick-and-morty is a mobile application. It is developed with Kotlin. https://rickandmortyapi.com/ brother has been used.
 
-**Versiyon**: 0.0.0.1\
-**Sorumlu**: Esra Kaya \ esra.kaya.5255@gmail.com
+**Version**: 0.0.0.1\
+**Builder**: Esra Kaya \ esra.kaya.5255@gmail.com
 
 
-#### Notlar
+#### Notes
 
 - Kotlin
 - Retrofit
 - Room Database
 - OkHttp
-- Projeyi indirmek için
-- git clone git@github.com:eskaya/rick-and-morty.git
+- To download the project --> git clone git@github.com:eskaya/rick-and-morty.git
 
 
-### Geliştirme Modu
+### Development Mode
 
 ```bash
-#Repoyu indiriyoruz.
+#We download the repo.
 git clone git@github.com:eskaya/rick-and-morty.git
 cd rick-and-morty
 
